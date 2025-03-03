@@ -45,11 +45,11 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 |                  Rol | Nombre                       | GitHub                                                     | Correo                   |
 | -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
 | Coordinadora         | Isabella Cherubini           | [@isabellacherubini](https://github.com/isabellacherubini) | isabella.cherubini@uc.cl |
-| Coordinadora Cátedra | Paula Grune                  | [@PaulaGrune](https://github.com/PaulaGrune)               | paula.grune@uc.cl |
-| Coordinador Tareas   | Daniel Quezada               | [@Segismundios](https://github.com/Segismundios)           | dquezadav@uc.cl      |
-| Bienestar Sección 1 | Rodrigo Jesús De La Fuente De La Fuente | [@rodridelafuente](https://github.com/rodridelafuente)    | rodridelafuente@uc.cl    |
-| Bienestar Sección 2                    | Antonia Cáceres              | [@1982739](https://github.com/1982739)       | jos.nordenflycht@uc.cl|
-| Bienestar Sección 3                    | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
+| Coordinadora Cátedra | Paula Grune                  | [@PaulaGrune](https://github.com/PaulaGrune)               | paula.grune@uc.cl        |
+| Coordinador Tareas   | Daniel Quezada               | [@Segismundios](https://github.com/Segismundios)           | dquezadav@uc.cl          |
+| Bienestar Sección 1  | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
+| Bienestar Sección 2  | José Tomás Nordenflycht      | [@1982739](https://github.com/1982739)                     | jos.nordenflycht@uc.cl   |
+| Bienestar Sección 3  | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
 |               Tareas | Trinidad Bravo        | [@tsbravo](https://github.com/tsbravo)                  |
 |                      | Daniela Castillo      | [@dcastillo5](https://github.com/dcastillo5)            |
 |                      | Javier Larre          |  [@JavierLarre](https://github.com/JavierLarre)         |
