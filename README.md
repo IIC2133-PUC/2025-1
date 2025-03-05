@@ -36,8 +36,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre           | Sección | Email                 |
 | :--------------- | :------ | :-------------------- |
-| Yadran Eterovic  | 1       | yadran@uc.cl          |
-| Diego Arroyuelo  | 2       | diego.arroyuelo@uc.cl |
+| Diego Arroyuelo  | 1       | diego.arroyuelo@uc.cl |
+| Yadran Eterovic  | 2       | yadran@uc.cl          |
 | Eduardo Bustos   | 3       | eb@uc.cl              |
 
 
@@ -47,8 +47,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Coordinadora         | Isabella Cherubini           | [@isabellacherubini](https://github.com/isabellacherubini) | isabella.cherubini@uc.cl |
 | Coordinadora Cátedra | Paula Grune                  | [@PaulaGrune](https://github.com/PaulaGrune)               | paula.grune@uc.cl        |
 | Coordinador Tareas   | Daniel Quezada               | [@Segismundios](https://github.com/Segismundios)           | dquezadav@uc.cl          |
-| Bienestar Sección 1  | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
-| Bienestar Sección 2  | José Tomás Nordenflycht      | [@1982739](https://github.com/1982739)                     | jos.nordenflycht@uc.cl   |
+| Bienestar Sección 1  | José Tomás Nordenflycht      | [@1982739](https://github.com/1982739)                     | jos.nordenflycht@uc.cl   |
+| Bienestar Sección 2  | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
 | Bienestar Sección 3  | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
 |               Tareas | Trinidad Bravo        | [@tsbravo](https://github.com/tsbravo)                  |
 |                      | Daniela Castillo      | [@dcastillo5](https://github.com/dcastillo5)            |
