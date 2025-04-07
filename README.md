@@ -95,7 +95,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicación     | Fecha Entrega         |
 | :--------- | :-------------------- | :-------------------- |
 | Tarea 0    | 10 de marzo           | 28 de marzo           |
-| Tarea 1    |                       |                       |
+| Tarea 1    | 4 de abril            | 25 de abril           |
 | Tarea 2    |                       |                       |
 | Tarea 3    |                       |                       |
 
