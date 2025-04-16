@@ -2,6 +2,9 @@
 
 - [Grabaciones Clases 2021-2](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb)
 
+## Visualización y comparación de algoritmos
+- Visualgo (https://visualgo.net/en/bst)
+- David Galles USFCA (https://www.cs.usfca.edu/~galles/visualization/about.html)
 
 ## Talleres fundamentos de C
 
