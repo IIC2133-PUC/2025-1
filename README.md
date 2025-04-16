@@ -48,8 +48,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Coordinadora Cátedra | Paula Grune                  | [@PaulaGrune](https://github.com/PaulaGrune)               | paula.grune@uc.cl        |
 | Coordinador Tareas   | Daniel Quezada               | [@Segismundios](https://github.com/Segismundios)           | dquezadav@uc.cl          |
 | Bienestar Sección 1  | José Tomás Nordenflycht      | [@1982739](https://github.com/1982739)                     | jos.nordenflycht@uc.cl   |
-| Bienestar Sección 2  | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
-| Bienestar Sección 3  | Bárbara Alfaro               | [@bcalfaro](https://github.com/bcalfaro)                   | bcalfaro@uc.cl           |
+| Bienestar Sección 2 y 3  | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
 |               Tareas | Trinidad Bravo        | [@tsbravo](https://github.com/tsbravo)                  |
 |                      | Daniela Castillo      | [@dcastillo5](https://github.com/dcastillo5)            |
 |                      | Javier Larre          |  [@JavierLarre](https://github.com/JavierLarre)         |
@@ -95,7 +94,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicación     | Fecha Entrega         |
 | :--------- | :-------------------- | :-------------------- |
 | Tarea 0    | 10 de marzo           | 28 de marzo           |
-| Tarea 1    |                       |                       |
+| Tarea 1    | 4 de abril            | 25 de abril           |
 | Tarea 2    |                       |                       |
 | Tarea 3    |                       |                       |
 
